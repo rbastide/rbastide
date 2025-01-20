@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on projects for my school
 - 📫 How to reach me : remi.bastide@etu.unilim.fr, ishlamalice on discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: like to play video games while coding. 
+- ⚡ Fun fact: like to play video games while coding.
+- Currently enrolled in first year of BUT informatique at the IUT of Limoges
 
 <!---
 rbastide/rbastide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
