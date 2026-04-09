@@ -43,11 +43,11 @@ Collaborative mobile/application development project using .NET MAUI.
 🔗 [View repository](https://github.com/rbastide/BastideAyebApp)
 
 ### ERP Centralized
-Collaborative ERP for automatized filling of resource sheet
+Collaborative ERP for automatized filling of resource sheet.
 🔗 [View repository](https://github.com/rbastide/Erp)
 
 ### Latice Application
-Collaborative developpment of a board game called Latice
+Collaborative developpment of a board game called Latice.
 🔗 [View repository](https://github.com/rbastide/latice)
 
 ---
