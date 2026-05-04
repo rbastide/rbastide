@@ -51,7 +51,7 @@ Collaborative developpment of a board game called Latice.
 🔗 [View repository](https://github.com/rbastide/latice)
 
 ### Bus & Train Display
-A web application displaying time schedule of Bus & Train with API request for Train and SQL request for Buses
+A web application displaying time schedule of Bus & Train with API request for Train and SQL request for Buses.
 🔗 [View repository](https://github.com/rbastide/Horaires-Train-et-Bus/)
 
 ---
