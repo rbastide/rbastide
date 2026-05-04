@@ -10,7 +10,7 @@
 
 - 🎓 second-year BUT Informatique student at IUT of Limoges
 - 💻 Interested in application development, software projects, and game-related programming
-- 🌱 Currently improving my skills in Python, JavaScript, HTML/CSS, Kotlin, C#, React, SpringBoot, Vue.js, 
+- 🌱 Currently improving my skills in Python, JavaScript, HTML/CSS, Kotlin, C#, React, SpringBoot, Vue.js, network and system analysis or configuration
 - 🤝 Open to collaborating on academic and personal projects
 - 📍 Based in France
 
@@ -18,7 +18,7 @@
 
 ## Tech stack
 
-- **Languages:** Python, JavaScript, HTML, CSS, Kotlin, C#, React, Springboot, Vue.js
+- **Languages:** Python, JavaScript, HTML, CSS, Kotlin, C#, React, Springboot, Vue.js, SpringBoot, bash, Java, JavaFX,
 - **Areas of interest:** Application development, web development, networking, software projects
 - **Tools:** Git, GitHub, JetBrains Idea, OracleVM, Visual Studio Code
 
@@ -73,6 +73,6 @@ I am currently looking to strengthen my experience through hands-on projects, te
 
 - Build more complete and polished projects
 - Improve software design and development practices
-- Learn more about full-stack and application development
+- Learn more about full-stack, application development, networking and machine learning
 - Contribute to collaborative projects
 ``
