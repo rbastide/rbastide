@@ -8,7 +8,7 @@
 
 ## About me
 
-- 🎓 second-year BUT Informatique student at IUT of Limoges
+- 🎓 third-year BUT Informatique student at IUT of Limoges
 - 💻 Interested in application development, software projects, and game-related programming
 - 🌱 Currently improving my skills in Python, JavaScript, HTML/CSS, Kotlin, C#, React, SpringBoot, Vue.js, network and system analysis or configuration
 - 🤝 Open to collaborating on academic and personal projects
