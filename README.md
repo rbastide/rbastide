@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a078ff,50:7c4dff,100:4cd7f6&height=220&section=header&text=R%C3%A9mi%20Bastide&fontSize=58&fontColor=e3e1e9&fontAlignY=36&desc=D%C3%A9veloppeur%20fullstack%20%C2%B7%20cap%20sur%20l'IA&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Rémi Bastide, développeur fullstack, cap sur l'IA"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0F70,35:8C2981,70:DD513A,100:FCA50A&height=220&section=header&text=R%C3%A9mi%20Bastide&fontSize=58&fontColor=FCFDBF&fontAlignY=36&desc=D%C3%A9veloppeur%20fullstack%20%C2%B7%20cap%20sur%20l'IA&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Rémi Bastide, développeur fullstack, cap sur l'IA"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=4CD7F6&center=true&vCenter=true&width=620&lines=%3E+loading+rbastide...;%3E+BUT+Informatique%2C+3e+ann%C3%A9e;%3E+base+de+donn%C3%A9es+%E2%86%92+API+%E2%86%92+interface+%E2%86%92+Docker;%3E+prochaine+%C3%A9tape+%3A+master+IA+en+alternance" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FCA50A&center=true&vCenter=true&width=620&lines=%3E+loading+rbastide...;%3E+BUT+Informatique%2C+3e+ann%C3%A9e;%3E+base+de+donn%C3%A9es+%E2%86%92+API+%E2%86%92+interface+%E2%86%92+Docker;%3E+prochaine+%C3%A9tape+%3A+master+IA+en+alternance" alt="Typing SVG"/>
 
 <br/><br/>
 
-<a href="mailto:remi.bastide29@gmail.com"><img src="https://img.shields.io/badge/Ouvert_%C3%A0_l'alternance-master_IA-4edea3?style=for-the-badge&labelColor=121318" alt="Ouvert à l'alternance"/></a>
-<a href="https://rbastide.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-rbastide.github.io-a078ff?style=for-the-badge&labelColor=121318&logo=googlechrome&logoColor=d0bcff" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/bremi/"><img src="https://img.shields.io/badge/LinkedIn-bremi-4cd7f6?style=for-the-badge&labelColor=121318&logo=linkedin&logoColor=4cd7f6" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/je-1B0C41?style=flat-square" alt="je"/><img src="https://img.shields.io/badge/d%C3%A9veloppe-3B0F70?style=flat-square" alt="développe"/><img src="https://img.shields.io/badge/des_apps-57106E?style=flat-square" alt="des apps"/><img src="https://img.shields.io/badge/fullstack-8C2981?style=flat-square" alt="fullstack"/><img src="https://img.shields.io/badge/et_je_vise-B63679?style=flat-square" alt="et je vise"/><img src="https://img.shields.io/badge/un_master-DD513A?style=flat-square" alt="un master"/><img src="https://img.shields.io/badge/en-F37819?style=flat-square" alt="en"/><img src="https://img.shields.io/badge/IA-FCA50A?style=flat-square" alt="IA"/>
+<br/><sub><code>attention.map</code> · le poids de chaque mot monte vers « IA »</sub>
+
+<br/><br/>
+
+<a href="mailto:remi.bastide29@gmail.com"><img src="https://img.shields.io/badge/Ouvert_%C3%A0_l'alternance-master_IA-FCA50A?style=for-the-badge&labelColor=17141F" alt="Ouvert à l'alternance"/></a>
+<a href="https://rbastide.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-rbastide.github.io-DD513A?style=for-the-badge&labelColor=17141F&logo=googlechrome&logoColor=FCA50A" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/bremi/"><img src="https://img.shields.io/badge/LinkedIn-bremi-8C2981?style=for-the-badge&labelColor=17141F&logo=linkedin&logoColor=FCA50A" alt="LinkedIn"/></a>
 
 </div>
 
@@ -102,8 +107,8 @@ Aussi sur mon GitHub : [TaskFlow](https://github.com/rbastide/TaskFlow) (todo li
 ## `> stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rbastide&show_icons=true&hide_border=false&bg_color=121318&title_color=d0bcff&icon_color=4cd7f6&text_color=e3e1e9&border_color=494454&rank_icon=github" alt="Statistiques GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbastide&layout=compact&bg_color=121318&title_color=d0bcff&text_color=e3e1e9&border_color=494454" alt="Langages les plus utilisés"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rbastide&show_icons=true&hide_border=false&bg_color=17141F&title_color=FCA50A&icon_color=DD513A&text_color=F4EFE6&border_color=3A2F45&ring_color=FCA50A&rank_icon=github" alt="Statistiques GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbastide&layout=compact&bg_color=17141F&title_color=FCA50A&text_color=F4EFE6&border_color=3A2F45" alt="Langages les plus utilisés"/>
 </p>
 
 <br/>
@@ -129,6 +134,6 @@ Pour une alternance en master IA, un projet ou une question sur mon code, l'e-ma
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4cd7f6,50:7c4dff,100:a078ff&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCA50A,30:DD513A,65:8C2981,100:3B0F70&height=120&section=footer" width="100%" alt=""/>
 
 </div>
