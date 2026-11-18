@@ -1,78 +1,134 @@
-<h1 align="center">Hi, I'm @rbastide 👋</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a078ff,50:7c4dff,100:4cd7f6&height=220&section=header&text=R%C3%A9mi%20Bastide&fontSize=58&fontColor=e3e1e9&fontAlignY=36&desc=D%C3%A9veloppeur%20fullstack%20%C2%B7%20cap%20sur%20l'IA&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Rémi Bastide, développeur fullstack, cap sur l'IA"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=4CD7F6&center=true&vCenter=true&width=620&lines=%3E+loading+rbastide...;%3E+BUT+Informatique%2C+3e+ann%C3%A9e;%3E+base+de+donn%C3%A9es+%E2%86%92+API+%E2%86%92+interface+%E2%86%92+Docker;%3E+prochaine+%C3%A9tape+%3A+master+IA+en+alternance" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="mailto:remi.bastide29@gmail.com"><img src="https://img.shields.io/badge/Ouvert_%C3%A0_l'alternance-master_IA-4edea3?style=for-the-badge&labelColor=121318" alt="Ouvert à l'alternance"/></a>
+<a href="https://rbastide.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-rbastide.github.io-a078ff?style=for-the-badge&labelColor=121318&logo=googlechrome&logoColor=d0bcff" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/bremi/"><img src="https://img.shields.io/badge/LinkedIn-bremi-4cd7f6?style=for-the-badge&labelColor=121318&logo=linkedin&logoColor=4cd7f6" alt="LinkedIn"/></a>
+
+</div>
+
+<br/>
+
+## `> whoami`
+
+Je suis en 3e année de BUT Informatique à l'IUT de Limoges. Je développe des applications de bout en bout : le schéma de la base de données, l'API, l'interface, puis le déploiement avec Docker sur un serveur Linux.
+
+D'avril à juin 2026, j'ai réalisé deux applications pour le Grand Périgueux : un écran des départs de trains et de bus, et le portail qui regroupe ses applications internes. Ce sont des outils utilisés en conditions réelles, pas des exercices.
+
+La suite, c'est l'Intelligence Artificielle. Je cherche une alternance pour intégrer un master en IA. Un modèle utile en entreprise a besoin de données propres, d'API fiables et d'un déploiement maîtrisé, et c'est la partie que je pratique déjà.
+
+<br/>
+
+## `model_card.yaml`
+
+```yaml
+model:        rbastide
+version:      BUT Informatique · 3e année · IUT de Limoges
+architecture: développeur fullstack, bases en administration système
+roles:
+  - responsable du projet Unilim EDT
+  - encadrement d'une équipe en alternance
+training_data:
+  - projets académiques
+  - projets personnels
+  - Grand Périgueux · avr. à juin 2026
+fine_tuning:  master Intelligence Artificielle (en alternance)
+status:       disponible
+region:       France
+contact:      remi.bastide29@gmail.com
+```
+
+<br/>
+
+## `> stack --list`
 
 <p align="center">
-  Computer Science student passionate about application development, software engineering, and technical projects.
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,php,kotlin,cs,bash&theme=dark" alt="Langages"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,vite,nestjs,laravel,spring,nodejs,express,flask,prisma,dotnet&theme=dark" alt="Frameworks"/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,docker,git,maven,gradle,jest,idea,vscode&theme=dark" alt="Données et outils"/>
 </p>
 
----
+| Couche | Ce que j'utilise |
+|:--|:--|
+| Langages | Java, JavaScript, TypeScript, Python, PHP, SQL, Bash, Kotlin, C# |
+| Front | React, React Native (Expo), Vue.js, Pinia, Inertia.js, Tailwind CSS, Vite, JavaFX |
+| Back | NestJS, Laravel, Node.js / Express, SpringBoot (Security, Data JPA), Flask, Prisma, OR-Tools, .NET MAUI |
+| Données | PostgreSQL, MySQL, MariaDB |
+| Système | Linux, Docker, Docker Compose, SSH, iptables, Maven, Gradle |
+| Qualité | Jest, JUnit, PHPUnit, ESLint, Prettier |
+| Méthode | Scrum, Jira, Trello |
 
-## About me
+<br/>
 
-- 🎓 third-year BUT Informatique student at IUT of Limoges
-- 💻 Interested in application development, software projects, and game-related programming
-- 🌱 Currently improving my skills in Python, JavaScript, HTML/CSS, Kotlin, C#, React, SpringBoot, Vue.js, network and system analysis or configuration
-- 🤝 Open to collaborating on academic and personal projects
-- 📍 Based in France
+## `> soft_skills --trace`
 
----
+Chaque compétence est reliée au projet où je l'ai mise en pratique.
 
-## Tech stack
+| Compétence | Où je l'ai pratiquée |
+|:--|:--|
+| Encadrement d'équipe | En alternance (3e année), j'encadre une équipe sur un projet privé : je répartis les tâches, je suis l'avancement et je relis le code. |
+| Gestion de projet | Responsable du projet Unilim EDT : découpage du travail, planning et choix techniques (Laravel, Vue.js, Docker). |
+| Travail en équipe | Latice et l'ERP en groupe à l'IUT, BastideAyebApp en binôme, avec Git et la résolution de conflits qui va avec. |
+| Autonomie | Overloady, de la conception de l'API jusqu'à la démo en ligne, et ce portfolio, seul du début à la fin. |
+| Écoute du besoin | Au Grand Périgueux, partir des demandes des agents pour l'écran des départs et le portail interne. |
+| Communication écrite | La documentation du portail, pour que d'autres puissent y ajouter une application sans moi. |
+| Méthodes agiles | Scrum, Jira et Trello sur les projets d'équipe. Le point sur lequel je progresse encore : estimer la charge d'un sprint. |
+| Anglais technique | Documentation, API et code en anglais au quotidien. |
 
-- **Languages:** Python, JavaScript, HTML, CSS, Kotlin, C#, React, Springboot, Vue.js, SpringBoot, bash, Java, JavaFX,
-- **Areas of interest:** Application development, web development, networking, software projects
-- **Tools:** Git, GitHub, JetBrains Idea, OracleVM, Visual Studio Code
+<br/>
 
----
+## `> projects --featured`
 
-## Featured projects
+| Projet | Contexte | Ce qu'il fait | Stack |
+|:--|:--|:--|:--|
+| **[Overloady](https://github.com/rbastide/Overloady)** · [démo](https://overloady.vercel.app) | Perso, 2026 | Suivi d'entraînement en surcharge progressive. L'algorithme propose la charge de la séance suivante : +2,5 kg ou +1 répétition. | React 19, TypeScript, NestJS, Prisma, PostgreSQL, Docker |
+| **[Horaires Train & Bus](https://github.com/rbastide/Horaires-Train-et-Bus)** | Grand Périgueux | Écran des prochains départs depuis la gare de Périgueux (API SNCF Navitia) et des bus PériMouv (MySQL). | Node.js, Express, MySQL, JavaScript |
+| **[Portail des applications internes](https://github.com/rbastide/Portail-des-applications-internes)** | Grand Périgueux | Intranet configurable par structure : catégories, favoris, thème clair et sombre, doc pour ajouter une application. | JavaScript, HTML, CSS |
+| **Unilim EDT** *(dépôt privé)* | Responsable du projet, 2026 | Génération d'emplois du temps pour l'Université de Limoges. | Laravel, Vue.js, TypeScript, Python, Docker |
+| **[ERP centralisé](https://github.com/rbastide/Erp)** | IUT | Gestion centralisée des fiches ressources pour les enseignants. | Vue.js, SpringBoot, Docker |
+| **[Latice](https://github.com/rbastide/latice)** | IUT | Le jeu de société Latice, développé en équipe. | Java, JavaFX |
 
-### Portfolio
-Personal portfolio website built with HTML, CSS, and JavaScript.  
-🔗 [View repository](https://rbastide.github.io/Portfolio/)
+Aussi sur mon GitHub : [TaskFlow](https://github.com/rbastide/TaskFlow) (todo list en Kotlin), [Reseau](https://github.com/rbastide/Reseau) (réseau émulé sous Kathara), [BastideAyebApp](https://github.com/rbastide/BastideAyebApp) (application .NET MAUI en binôme).
 
-### TaskFlow
-Collaborative Kotlin project focused on a Todo List application.  
-🔗 [View repository](https://github.com/rbastide/TaskFlow)
+> **Mon [portfolio](https://rbastide.github.io/Portfolio/) a son propre assistant.** ReyMysterio répond aux questions sur mes projets et ma stack. Il tourne en local, sans appel à une API : sa base de connaissances est générée à partir des données du site. Posez-lui la question, il vous dira où me joindre.
 
-### Network Project with Kathara
-A networking setup and simulation project built with Kathara.  
-🔗 [View repository](https://github.com/rbastide/Reseau)
+<br/>
 
-### .NET MAUI Application
-Collaborative mobile/application development project using .NET MAUI.  
-🔗 [View repository](https://github.com/rbastide/BastideAyebApp)
+## `> stats`
 
-### ERP Centralized
-Collaborative ERP for automatized filling of resource sheet.  
-🔗 [View repository](https://github.com/rbastide/Erp)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rbastide&show_icons=true&hide_border=false&bg_color=121318&title_color=d0bcff&icon_color=4cd7f6&text_color=e3e1e9&border_color=494454&rank_icon=github" alt="Statistiques GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbastide&layout=compact&bg_color=121318&title_color=d0bcff&text_color=e3e1e9&border_color=494454" alt="Langages les plus utilisés"/>
+</p>
 
-### Latice Application
-Collaborative developpment of a board game called Latice.  
-🔗 [View repository](https://github.com/rbastide/latice)
+<br/>
 
-### Bus & Train Display
-A web application displaying time schedule of Bus & Train with API request for Train and SQL request for Buses.
-🔗 [View repository](https://github.com/rbastide/Horaires-Train-et-Bus/)
+## `training.log`
 
----
+```diff
++ [ok]   applications fullstack, de la base de données au déploiement Docker
++ [ok]   deux outils utilisés au Grand Périgueux
++ [ok]   compétences du BUT validées au niveau 3
++ [ok]   responsable du projet Unilim EDT
+! [run]  encadrement d'une équipe sur un projet privé, en alternance
+! [run]  projets plus complets, mieux conçus, mieux testés
+! [run]  premiers projets de machine learning sur ce GitHub
+- [next] master Intelligence Artificielle en alternance
+```
 
-## What I'm looking for
+<br/>
 
-I am currently looking to strengthen my experience through hands-on projects, technical collaboration, and internship opportunities in software development.
+## `> contact`
 
----
+Pour une alternance en master IA, un projet ou une question sur mon code, l'e-mail reste le plus direct : **remi.bastide29@gmail.com**. Je réponds aussi sur [LinkedIn](https://www.linkedin.com/in/bremi/).
 
-## Contact
+<div align="center">
 
-- 📧 remi.bastide@etu.unilim.fr or remi.bastide29@gmail.com
-- 💼 GitHub: [github.com/rbastide](https://github.com/rbastide)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4cd7f6,50:7c4dff,100:a078ff&height=120&section=footer" width="100%" alt=""/>
 
----
-
-## Goals for 2026
-
-- Build more complete and polished projects
-- Improve software design and development practices
-- Learn more about full-stack, application development, networking and machine learning
-- Contribute to collaborative projects
-``
+</div>
